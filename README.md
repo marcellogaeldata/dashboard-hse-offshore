@@ -1,7 +1,7 @@
 # Dashboard de Performance HSE Offshore 👷‍♂️⚓
 ## Offshore HSE Performance Dashboard 📊
 
-![HSE Dashboard](./DB_HSE_Offshore_Performance.PNG)
+![HSE Dashboard](./DB_HSE_Offshore_Performance.png)
 
 ---
 
